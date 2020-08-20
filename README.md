@@ -3,9 +3,9 @@ Digicution Simple Twitter Feed (Wordpress Plugin)
 
 Requires at least: Wordpress 3.1
 
-Tested up to: Wordpress 3.9
+Tested up to: Wordpress 5.5
 
-Stable tag: 1.4.2.8
+Stable tag: 1.4.2.9
 
 License: GPLv2 or later
 
@@ -16,8 +16,6 @@ This plugin provides a simple list of Tweets from a users screen name for usage 
 
 Description
 ==============
-
-* Brand New Wordpress 3.8 Responsive Interface Design - Fully Backwards Compatible With Earlier Wordpress Releases.
 
 This plugin provides a simple list of Tweets from a users screen name for usage within your Wordpress Blog or Template.  
 
