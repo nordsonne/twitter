@@ -127,6 +127,10 @@ No problemo, just head to http://www.digicution.com/contact/ and submit the cont
 Changelog
 ==============
 
+1.4.2.9
+--------------
+* Fixed 'jquery.dt-admin.js?ver=5.5:13 Uncaught TypeError: dtjq(...).live is not a function'
+
 1.4.2.8
 --------------
 * Fixed 'line-height' bug if Tweet Font Size set to 'ems'.  Thanks to Ian Clarke for highlighting the issue.
