@@ -10,7 +10,7 @@ dtjq(document).ready(function() {
 		
 		
 	//Left Menu Tabs
-	dtjq('#dt-admin-form-container .left-area li a').live('click',function(e) { var relAttr = dtjq(this).attr("rel"); dtjq(".setting-right-section").hide(); dtjq("#setting-"+relAttr).show(); dtjq('#dt-admin-form-container .left-area li a').removeClass('active'); dtjq(this).addClass('active'); e.preventDefault(); });
+	dtjq('#dt-admin-form-container .left-area li a').on('click',function(e) { var relAttr = dtjq(this).attr("rel"); dtjq(".setting-right-section").hide(); dtjq("#setting-"+relAttr).show(); dtjq('#dt-admin-form-container .left-area li a').removeClass('active'); dtjq(this).addClass('active'); e.preventDefault(); });
 				
 	//Initialise MiniColors Plugin
 	dtjq.minicolors.init();
